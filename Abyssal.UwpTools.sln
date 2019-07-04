@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29021.104
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abyssal.UwpTools", "Abyssal.UwpTools\Abyssal.UwpTools.csproj", "{47F513DA-C605-44FB-85C5-AC73FFC82EB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47F513DA-C605-44FB-85C5-AC73FFC82EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F513DA-C605-44FB-85C5-AC73FFC82EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F513DA-C605-44FB-85C5-AC73FFC82EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F513DA-C605-44FB-85C5-AC73FFC82EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E939827-6862-4DCC-A71F-ADA4E27ECC16}
+	EndGlobalSection
+EndGlobal
