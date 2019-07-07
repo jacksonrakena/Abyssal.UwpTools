@@ -1,5 +1,5 @@
 # Abyssal.UwpTools
-A set of tools and utilities used in my UWP applications. These tools and utilities are highly specialized and modified to work with my UWP application, and as such, might require some tinkering to work with your applications.
+A set of tools and utilities used in my UWP applications. These tools and utilities are highly specialized and modified to work with my UWP applications, and as such, might require some tinkering to work with your applications.
 
 ### Contents
 If you're an experienced UWP/WPF developer, I apologize greatly, because this repository might be disgusting to read. I'm really new to UWP and WPF, so please forgive me.
