@@ -14,4 +14,4 @@ If you're an experienced UWP/WPF developer, I apologize greatly, because this re
   
 
 ## Copyright
-Copyright (c) 2019 abyssal512, licensed under the MIT License.
+Copyright (c) 2020 Abyssal, licensed under the MIT License.
